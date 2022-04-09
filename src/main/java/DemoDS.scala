@@ -1,4 +1,5 @@
-package main.java
+//package main.java
+// since java dir is made as sources root ( earlier it was src )
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.types.{DoubleType, IntegerType, StringType, StructField, StructType, TimestampType}
